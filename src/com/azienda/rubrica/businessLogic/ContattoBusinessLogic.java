@@ -1,3 +1,4 @@
+// secondo commento per Git
 package com.azienda.rubrica.businessLogic;
 
 import java.util.ArrayList;
